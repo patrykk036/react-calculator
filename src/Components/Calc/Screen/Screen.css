@@ -1,0 +1,12 @@
+.screen{
+    width: 225px;
+    height: 80px;
+    background: rgb(39, 39, 39);
+    text-align: right;
+    border: 1px solid rgb(216, 216, 216);
+    box-sizing: border-box;
+    padding: 10px;
+    color: white;
+    font-size: 40px;
+    line-height: 50px;
+}

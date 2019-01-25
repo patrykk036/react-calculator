@@ -1,0 +1,15 @@
+.btn {
+  width: 75px;
+  height: 80px;
+  border: none;
+  outline: none;
+  background: rgb(92, 92, 92);
+  border: 1px solid rgb(216, 216, 216);
+  box-sizing: border-box;
+  color: white;
+  font-size: 40px;
+  cursor: pointer;
+}
+.btn-orange {
+  background: #c26e00;
+}
